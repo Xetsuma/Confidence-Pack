@@ -1,0 +1,13 @@
+name = "Confidence"
+author = "Xetsuma"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "37f490cb3d59f3c61f0e5fa87a9ffbf749b5ae1dd09b619f644252c8c3ed5d91"
+
+[versions]
+forge = "40.1.84"
+minecraft = "1.18.2"
