@@ -1,0 +1,13 @@
+name = "REI Plugin Compatibilities"
+filename = "RoughlyEnoughItems-forge-8.0.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de2567e1a7b30df3204a66cb1bfcba8719a592d7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4036397
+project-id = 521393
