@@ -1,0 +1,13 @@
+name = "Archer's Paradox"
+filename = "archers_paradox-1.18.2-3.0.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7c5d342c7f037ff6f1e83de76fe523510d114964"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4022667
+project-id = 353399

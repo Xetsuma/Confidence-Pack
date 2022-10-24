@@ -1,0 +1,13 @@
+name = "Give Me Hats! [FABRIC/FORGE]"
+filename = "GiveMeHats-FORGE-2.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "08e9cb7e3dc325e64c95287009cdb1717623cbe2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3822523
+project-id = 384009
